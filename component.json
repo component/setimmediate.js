@@ -1,0 +1,16 @@
+{
+  "name": "setimmediate.js",
+  "description": "a really stupid setImmediate polyfill",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "twitter": "https://twitter.com/jongleberry"
+  },
+  "license": "MIT",
+  "repository": "component/setimmediate.js",
+  "scripts": [
+    "index.js"
+  ]
+}
