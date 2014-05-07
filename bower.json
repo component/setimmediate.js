@@ -10,7 +10,5 @@
   },
   "license": "MIT",
   "repository": "polyfills/setimmediate.js",
-  "scripts": [
-    "index.js"
-  ]
+  "main": "index.js"
 }
