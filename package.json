@@ -9,5 +9,7 @@
     "twitter": "https://twitter.com/jongleberry"
   },
   "license": "MIT",
+  "main": "node.js",
+  "browser": "index.js",
   "repository": "component/setimmediate.js"
 }
