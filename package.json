@@ -11,5 +11,5 @@
   "license": "MIT",
   "main": "node.js",
   "browser": "index.js",
-  "repository": "polyfills/setimmediate.js"
+  "repository": "component/setimmediate.js"
 }
